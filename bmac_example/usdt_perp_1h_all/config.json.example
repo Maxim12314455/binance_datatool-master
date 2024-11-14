@@ -5,7 +5,7 @@
     "num_candles": 2000,
     
     "msg_sender": {
-        "type": "dingding",
+        "type": "dingding",    // "dingding" 或 "wechat_work"
         "error": {
             "access_token": "f06e5.....",
             "secret": "SEC439....",
