@@ -6,7 +6,7 @@ import aiohttp
 from bmac.handler import BmacHandler
 from fetcher import BinanceFetcher
 from msg_sender.dingding import DingDingSender
-from msg_sender.wechat_work import WechatWorkSender
+from msg_sender.dingding import WechatWorkSender
 from util import create_aiohttp_session
 
 
