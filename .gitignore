@@ -1,0 +1,6 @@
+sync.sh
+*.pyc
+.DS_Store
+.vscode
+bmac_example/*/config.json
+bmac_example/*/*_*m

@@ -1,0 +1,12 @@
+{
+    "interval": "1h",
+    "trade_type": "usdt_spot",
+    "num_candles": 10000,
+
+    "dingding": {
+        "error": {
+            "access_token": "bcd2...",
+            "secret": "SEC5..."
+        }
+    }
+}
